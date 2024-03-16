@@ -2,6 +2,6 @@
 
 ### Hey, there! I'm Vinícius!!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Vinícius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Senior Software Engineer <br/> I work with ReactJs, React Native and NextJs</p>
