@@ -4,4 +4,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<p>Working for bird since 2024, <a href="https://github.com/albbird">Albbird</a></p>
+
 <p>Senior Software Engineer <br/> I work with ReactJs, React Native and NextJs <br/> A NodeJs, Go and Laravel enthusiast</p>
